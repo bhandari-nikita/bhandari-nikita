@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nikita
 
-<!--
-**bhandari-nikita/bhandari-nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Python and FastAPI.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- FastAPI
+- PostgreSQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+- Ecommerce Backend API
+
+## Current Focus
+- Backend development
+- API development
+- Improving problem solving skills
